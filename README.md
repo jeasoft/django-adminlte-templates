@@ -13,7 +13,7 @@ INSTALLED_APPS = (
 )
 ```
 
-Install AdminLTE template context processor to djnago template engine like this:
+Install AdminLTE template context processor to django template engine like this:
 
 ```
 TEMPLATES = [
